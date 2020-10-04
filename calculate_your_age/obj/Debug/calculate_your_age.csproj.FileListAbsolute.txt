@@ -1,0 +1,7 @@
+F:\C# apps\C# _GSD\c#_for_designer\calculator_upgrade\calculate_your_age\calculate_your_age\obj\Debug\calculate_your_age.csprojAssemblyReference.cache
+F:\C# apps\C# _GSD\c#_for_designer\calculator_upgrade\calculate_your_age\calculate_your_age\obj\Debug\calculate_your_age.csproj.CoreCompileInputs.cache
+F:\C# apps\C# _GSD\c#_for_designer\calculator_upgrade\calculate_your_age\calculate_your_age\bin\Debug\calculate_your_age.exe.config
+F:\C# apps\C# _GSD\c#_for_designer\calculator_upgrade\calculate_your_age\calculate_your_age\bin\Debug\calculate_your_age.exe
+F:\C# apps\C# _GSD\c#_for_designer\calculator_upgrade\calculate_your_age\calculate_your_age\bin\Debug\calculate_your_age.pdb
+F:\C# apps\C# _GSD\c#_for_designer\calculator_upgrade\calculate_your_age\calculate_your_age\obj\Debug\calculate_your_age.exe
+F:\C# apps\C# _GSD\c#_for_designer\calculator_upgrade\calculate_your_age\calculate_your_age\obj\Debug\calculate_your_age.pdb
